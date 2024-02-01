@@ -1,8 +1,6 @@
 
 "'- 👋 Hi, I’m @UmutcanKasal
 
-👀 I’m interested in Data Engineering and Science
-
-🌱 I’m currently learning SQL , Python
+👀 I’m working as Data Engineering and mostly interested in Cloud technologies.
 
 📫 How to reach me https://www.linkedin.com/in/umutcan-kasal/ "
